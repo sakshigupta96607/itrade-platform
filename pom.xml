@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.itrade</groupId>
+    <artifactId>itrade-platform</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>api-gateway</module>
+        <module>auth-service</module>
+        <module>payment-service</module>
+        <module>document-service</module>
+        <module>notification-service</module>
+        <module>common-library</module>
+    </modules>
+</project>
