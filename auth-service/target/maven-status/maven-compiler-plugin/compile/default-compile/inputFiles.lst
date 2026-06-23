@@ -1,0 +1,14 @@
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\controller\AuthController.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\dto\ProfileDTO.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\entity\Profile.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\AuthServiceApplication.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\dto\LoginRequest.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\service\AuthService.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\repository\OperatorRepository.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\security\JwtUtil.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\dto\LoginResponse.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\controller\ProfileController.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\entity\Operator.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\repository\ProfileRepository.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\security\SecurityConfig.java
+C:\Users\HP\IdeaProjects\itrade-platform\auth-service\src\main\java\com\bank\itrade\auth\security\JwtFilter.java
